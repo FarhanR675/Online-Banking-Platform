@@ -49,8 +49,7 @@ Run the application:
     Access the application:
         Open your browser and navigate to http://localhost:8080/register.html.
         *NOTE*
-        Once you registered, you will be given your Bank ID and Bank Pin, which will be
-        required to login
+        Once you registered, you will be given your Bank ID and Bank Pin, which will be required to login
 
 Usage
 
