@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1,0">
+    <title>Global Banking Actions</title>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h3>Account Balance: <span id="balanceDisplay">£0.00</span></h3>
+
+    <form id="depositForm">
+        <input type="number" id="depositAmount" placeholder="Deposit Amount" required>
+        <button type="submit">Deposit</button>
+    </form>
+
+    <form id="withdrawForm">
+        <input type="number" id="withdrawAmount" placeholder="Withdraw Amount" required>
+        <button type="submit">Withdraw</button>
+    </form>
+</div>
+</body>
+</html>
