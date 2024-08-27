@@ -1,7 +1,7 @@
 # OnlineBankingPlatform
 
 ## Overview
-OnlineBankingPlatform is a web-based banking application designed to provide users with secure and straightforward banking operations. The application includes functionalities such as user registration, login, deposits, and withdrawals.
+OnlineBankingPlatform is a web-based banking application designed to provide users with secure and straightforward banking operations. The application includes functionalities such as user registration, login, deposits, and withdrawals. Please make sure to read the steps below to run the program correctly.
 
 ## Features
 - **User Registration & Login:** Secure user authentication and authorization.
