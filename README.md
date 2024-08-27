@@ -25,9 +25,9 @@ OnlineBankingPlatform is a web-based banking application designed to provide use
 ### Steps to Run Locally
 
 1. **Clone the repository:**
-   git clone https://github.com/FarhanR675/Online-Banking-Platform.git
+git clone https://github.com/FarhanR675/Online-Banking-Platform.git
    
-    Navigate to the project directory:
+Navigate to the project directory:
 
 cd Online-Banking-Platform
 
